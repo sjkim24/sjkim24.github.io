@@ -1,1 +1,4 @@
-SJ's Personal Site
+# SJ's Personal Site
+
+## Live
+> www.sjkim.io
