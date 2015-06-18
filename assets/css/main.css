@@ -2552,7 +2552,7 @@
 
 /* One */
 
-	#one:before {
+	#aboutme:before {
 		background-image: url("../../images/logic.png");
 		background-position: top right;
 		background-repeat: no-repeat;
@@ -2737,7 +2737,7 @@
 
 		/* One */
 
-			#one:before {
+			#aboutme:before {
 				height: 10em;
 			}
 
@@ -2935,7 +2935,7 @@
 
 		/* One */
 
-			#one:before {
+			#aboutme:before {
 				height: 7em;
 			}
 
